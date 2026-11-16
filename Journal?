@@ -1,0 +1,4 @@
+16/11/2026 10.16 to 10.16: While I havent even used kicad yet, and there is only 4 days left, I have thought about the components of this essentially 'super attiny'
+to run linux on somehow. The components I have decided on are; obviously an attiny45, IS66WVS4M8BLL-104NLI-TR4 mb ram chip, a micro sd card slot, a connector to connect
+an external spi oled display or program, and 5 buttons in a cross shape with each button connected to a resistor of a different type so the attiny can use one pin 
+to check 5 buttons.
