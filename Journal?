@@ -1,4 +1,10 @@
 16/11/2026 10.16 to 10.16: While I havent even used kicad yet, and there is only 4 days left, I have thought about the components of this essentially 'super attiny'
-to run linux on somehow. The components I have decided on are; obviously an attiny45, IS66WVS4M8BLL-104NLI-TR4 mb ram chip, a micro sd card slot, a connector to connect
+to run linux on somehow. The components I have decided on are; obviously an attiny45, IS66WVS4M8BLL-104NLI-TR 4 mb ram chip, a micro sd card slot, a connector to connect
 an external spi oled display or program, and 5 buttons in a cross shape with each button connected to a resistor of a different type so the attiny can use one pin 
 to check 5 buttons.
+
+16/11/2026 8.19 to 9.22: 10 hours and 3 minutes later I am installing kicad. I am ashamed of my self and will probabbly not finish this. I do not care cuz I want to 
+learn how to make pcbs anyways. Also when you are checking how much time I have spent on this project from the github, the number could be wildy inacurate because i 
+have spent so long with this journal open doing nothing. Apparently I am terrible at schematics, because I have just gotten the parts on the schematic, after an hour but I will 
+need a few extra chips for voltage management, and if I cant find an 8 pin one, ill just try to make circuits for voltage lowering. I feel like considering that an hour was spent
+on this for so little progress, it should be counted as 30 min but you're the judge.
