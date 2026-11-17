@@ -8,3 +8,7 @@ learn how to make pcbs anyways. Also when you are checking how much time I have 
 have spent so long with this journal open doing nothing. Apparently I am terrible at schematics, because I have just gotten the parts on the schematic, after an hour but I will 
 need a few extra chips for voltage management, and if I cant find an 8 pin one, ill just try to make circuits for voltage lowering. I feel like considering that an hour was spent
 on this for so little progress, it should be counted as 30 min but you're the judge.
+
+16/11/2026 9.13 to 10.04: Time to finish off the schematics! I'm leaving the connections to the ram chip for last, and am doing the buttons. well, I have worked for an hour and 
+only just realised that apart from the attiny, everything else uses 3.3v so I need lots of voltage regulators. I chose to use 2 8 pin regulators because I needed more regulated 
+pins, so I had to use 2 8 pin regulators instead of a 16 pin one, I hope that's allowed.
