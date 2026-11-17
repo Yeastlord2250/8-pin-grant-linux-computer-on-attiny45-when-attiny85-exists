@@ -9,11 +9,14 @@ have spent so long with this journal open doing nothing. Apparently I am terribl
 need a few extra chips for voltage management, and if I cant find an 8 pin one, ill just try to make circuits for voltage lowering. I feel like considering that an hour was spent
 on this for so little progress, it should be counted as 30 min but you're the judge.
 
-17/11/2026 9.13 am to 10.04 am: Time to finish off the schematics! I'm leaving the connections to the ram chip for last, and am doing the buttons. well, I have worked for an hour and 
-only just realised that apart from the attiny, everything else uses 3.3v so I need lots of voltage regulators. I chose to use 2 8 pin regulators because I needed more regulated 
-pins, so I had to use 2 8 pin regulators instead of a 16 pin one, I hope that's allowed.
+17/11/2026 9.13 am to 10.04 am: Time to finish off the schematics! I'm leaving the connections to the ram chip for last, and am doing the buttons. well, I have worked for
+an hour and only just realised that apart from the attiny, everything else uses 3.3v so I need lots of voltage regulators. I chose to use 2 8 pin regulators because I
+needed more regulated pins, so I had to use 2 8 pin regulators instead of a 16 pin one, I hope that's allowed.
 
 17/11/2026 12.55 pm to 1.10 pm : Now, I hope to actually finish the schematics before class ends, or the teacher notices I'm not doing my work. The teacher saw me
 so I had to cut it short.
 
 17/11/2026 2.14 pm to 2.55 pm : Finally, all the schematics are done, next I need the pcb though, and coding, and I think the time ive spent so far is around 3 hours.
+
+17/11/2026 3.30 pm to 4.30 pm : I have not only started the pcb, but I am nowhere near completing it. Also, I am bad at measurements, and I'm not even sure that all 
+the parts I am using are available, so I'll have to check.
