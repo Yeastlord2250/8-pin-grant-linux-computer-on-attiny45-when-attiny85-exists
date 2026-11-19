@@ -32,7 +32,7 @@ I cant participate, it doesnt matter because making this pcb has been fun. Anywa
 18/11/2026 12.55 pm to 1.06 pm : I had to go for a bit but time to get back to work. i've placed everything to my liking and will now start making traces
 
 18/11/2026 1.18 pm to 1.41 pm : To work on the traces, I need to make sure everything are in spots where they can all be connected. I've found that my 
-placement wasn't very spectacular.
+placement wasn't very spectacular though, so it may be dificult, also what do vias's do.
 
 18/11/2026 2.38 pm to 3.08 pm : Now I will continue on traces, but I am in the bus so I wont do it for long. For some reason, the 3.3v output on the 5v to
 3.3v voltage regulator was labeled as gnd, along with everything that would connect to 3.3v, so I have to be careful and check my schematics a lot.
@@ -46,5 +46,9 @@ is 1 day and 22 hours not just 1 day left of this grant. I couldn't really do mu
 part later.
 
 19/11/2026 6.26 pm to 6.51 pm : Hopefully now I can finish off the traces. I've realised that 99% of all my traces are for the components to commmunicate with each
-other, and if each vias adds 20 cents to the build cost then I went over the price cost 2 hours ago. Also I'd continue working on it but I am running low on charge,
+other, and if each vias adds 20 cents to the build cost then I would've gone over the price cost 2 hours ago. Also I'd continue working on it but I am running low on charge,
 and I have been getting better at making the traces.
+
+19/11/2026 10.34 pm to 11.10 pm : I've realised that I have about 6 hours and 46 minutes of time logged, and have barely done the traces, so I really need to get 
+a move on, even if it's night time. I've finished the board traces, and checked the errors, and each of the 39 errors and 15 warnings left unfixed were
+caused by things like parts of a button not supposed to be connected being unconnected, and the pads on a resistor being to close together.
