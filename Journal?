@@ -24,3 +24,27 @@ the parts I am using are available, so I'll have to check.
 
 17/11/2026 7.49 pm to 8.24 pm : Time to follow a tutorial, and hope that my schematic is absolutely perfect in every way. I almost finished the placement of all
 the parts, and realised the way I am journalling this is terrible, maybe I should make a more refined version called "The readable rewritten journal". Maybe.
+
+18/11/2026 12.28 pm to 12.35 pm : Today I had this "bandfest" thing where I had to go to a conservitorium far from my school, so I worked on my pcb in intervals.
+I don't have wifi either so I'll just write this into a .txt file. Also I just realised that I didnt take photos of my schematics as progress, so if that means 
+I cant participate, it doesnt matter because making this pcb has been fun. Anyways, I am now going to place the last components and start making traces.
+
+18/11/2026 12.55 pm to 1.06 pm : I had to go for a bit but time to get back to work. i've placed everything to my liking and will now start making traces
+
+18/11/2026 1.18 pm to 1.41 pm : To work on the traces, I need to make sure everything are in spots where they can all be connected. I've found that my 
+placement wasn't very spectacular.
+
+18/11/2026 2.38 pm to 3.08 pm : Now I will continue on traces, but I am in the bus so I wont do it for long. For some reason, the 3.3v output on the 5v to
+3.3v voltage regulator was labeled as gnd, along with everything that would connect to 3.3v, so I have to be careful and check my schematics a lot.
+
+18/11/2026 3.24 pm to 3.42 pm : I managed to fix that isssue, and the cause of it was 3.3v being connected to gnd in the schematic, now I will try to
+finish the traces. I probably won't but its good to try. I have learned how to use viases (whats the plural of vias), and they have been really useful
+to make up for my terrible placement.
+
+19/11/2026 11.47 am to 12.14 pm : I have thought of a way to organise these entries, so if it seems organised, then I organised it. I also learned that there
+is 1 day and 22 hours not just 1 day left of this grant. I couldn't really do much because the teacher came around when I was working on it, and I wrote this
+part later.
+
+19/11/2026 6.26 pm to 6.51 pm : Hopefully now I can finish off the traces. I've realised that 99% of all my traces are for the components to commmunicate with each
+other, and if each vias adds 20 cents to the build cost then I went over the price cost 2 hours ago. Also I'd continue working on it but I am running low on charge,
+and I have been getting better at making the traces.
