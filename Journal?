@@ -49,6 +49,9 @@ part later.
 other, and if each vias adds 20 cents to the build cost then I would've gone over the price cost 2 hours ago. Also I'd continue working on it but I am running low on charge,
 and I have been getting better at making the traces.
 
+20/11/2026 8.40 pm to 9.54 pm : I've finished the pcb, and while I dont think I met the time limits, I'm still proud of it and will make it myself with pcbway
+or something if this grant doesnt. Also I still have 39 errors and 15 warnings but everything is coneccted.
+
 19/11/2026 10.34 pm to 11.10 pm : I've realised that I have about 6 hours and 46 minutes of time logged, and have barely done the traces, so I really need to get 
 a move on, even if it's night time. I've finished the board traces, and checked the errors, and each of the 39 errors and 15 warnings left unfixed were
 caused by things like parts of a button not supposed to be connected being unconnected, and the pads on a resistor being to close together.
